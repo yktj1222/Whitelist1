@@ -1,0 +1,9 @@
+local nigga = game.Players.LocalPlayer.Name
+if nigga == "Aceplayzz0" or
+   nigga == "User" or
+   nigga == "User" then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/yktj1222/New-Benda.cc/refs/heads/main/Benda.cc"))()
+local function kickPlayer(player)
+        player:Kick("You are not whitelisted")
+    end
+end
